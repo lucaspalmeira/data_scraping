@@ -1,0 +1,27 @@
+REMARK Number:  6
+REMARK Cluster:  6  6
+REMARK Cluster:  6  6
+REMARK Ligand Name   :  peptide_models.pdb
+REMARK ITScore       :   -64.362
+REMARK RMSD          :    44.621
+MODEL    6
+ATOM      1  N   ALA B   1     -36.583  19.051   2.451
+ATOM      2  CA  ALA B   1     -35.680  20.178   2.085
+ATOM      3  C   ALA B   1     -36.247  21.495   2.635
+ATOM      4  O   ALA B   1     -37.365  21.857   2.325
+ATOM      5  CB  ALA B   1     -35.580  20.270   0.561
+ATOM      6  N   GLY B   2     -35.452  22.203   3.415
+ATOM      7  CA  GLY B   2     -35.929  23.452   3.972
+ATOM      8  C   GLY B   2     -34.831  24.090   4.784
+ATOM      9  O   GLY B   2     -33.768  23.492   4.953
+ATOM     10  N   GLY B   3     -35.060  25.306   5.266
+ATOM     11  CA  GLY B   3     -34.048  26.005   6.032
+ATOM     12  C   GLY B   3     -32.945  26.572   5.153
+ATOM     13  O   GLY B   3     -31.857  26.900   5.633
+ATOM     14  N   GLY B   4     -33.220  26.633   3.852
+ATOM     15  CA  GLY B   4     -32.315  27.226   2.883
+ATOM     16  C   GLY B   4     -30.922  26.683   2.640
+ATOM     17  O   GLY B   4     -30.117  27.370   2.011
+ATOM     18  OXT GLY B   4     -30.633  25.568   3.079
+TER
+ENDMDL

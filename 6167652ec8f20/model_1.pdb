@@ -1,0 +1,44 @@
+REMARK Number:  1
+REMARK Cluster:  1  1
+REMARK Cluster:  1  1
+REMARK Ligand Name   :  peptide_models.pdb
+REMARK ITScore       :  -106.358
+REMARK RMSD          :    54.322
+MODEL    1
+ATOM      1  N   GLY B   1     -42.094  27.936   3.539
+ATOM      2  CA  GLY B   1     -41.442  26.814   4.187
+ATOM      3  C   GLY B   1     -41.007  25.745   3.197
+ATOM      4  O   GLY B   1     -40.744  24.602   3.576
+ATOM      5  N   ALA B   2     -40.929  26.065   1.939
+ATOM      6  CA  ALA B   2     -40.516  25.055   0.926
+ATOM      7  C   ALA B   2     -39.002  24.815   1.022
+ATOM      8  O   ALA B   2     -38.227  25.740   0.894
+ATOM      9  CB  ALA B   2     -40.856  25.572  -0.473
+ATOM     10  N   GLY B   3     -38.584  23.576   1.234
+ATOM     11  CA  GLY B   3     -37.165  23.329   1.427
+ATOM     12  C   GLY B   3     -36.759  23.615   2.868
+ATOM     13  O   GLY B   3     -37.595  24.089   3.628
+ATOM     14  N   GLY B   4     -35.513  23.288   3.239
+ATOM     15  CA  GLY B   4     -35.050  23.493   4.611
+ATOM     16  C   GLY B   4     -34.476  24.869   4.905
+ATOM     17  O   GLY B   4     -34.386  25.744   4.036
+ATOM     18  N   GLY B   5     -34.073  25.081   6.166
+ATOM     19  CA  GLY B   5     -33.509  26.359   6.562
+ATOM     20  C   GLY B   5     -32.575  26.992   5.542
+ATOM     21  O   GLY B   5     -31.672  26.343   5.012
+ATOM     22  N   ALA B   6     -32.760  28.246   5.234
+ATOM     23  CA  ALA B   6     -31.882  28.917   4.235
+ATOM     24  C   ALA B   6     -30.514  29.211   4.866
+ATOM     25  O   ALA B   6     -30.437  29.884   5.873
+ATOM     26  CB  ALA B   6     -32.529  30.233   3.796
+ATOM     27  N   GLY B   7     -29.438  28.718   4.269
+ATOM     28  CA  GLY B   7     -28.137  28.897   4.891
+ATOM     29  C   GLY B   7     -27.908  27.845   5.970
+ATOM     30  O   GLY B   7     -28.825  27.080   6.247
+ATOM     31  N   GLY B   8     -26.748  27.833   6.574
+ATOM     32  CA  GLY B   8     -26.485  26.846   7.603
+ATOM     33  C   GLY B   8     -25.106  27.073   8.171
+ATOM     34  O   GLY B   8     -24.374  27.933   7.681
+ATOM     35  OXT GLY B   8     -24.718  26.395   9.123
+TER
+ENDMDL

@@ -1,0 +1,40 @@
+REMARK Number:  1
+REMARK Cluster:  1  1
+REMARK Cluster:  1  1
+REMARK Ligand Name   :  peptide_models.pdb
+REMARK ITScore       :   -99.395
+REMARK RMSD          :    82.112
+MODEL    1
+ATOM      1  N   PTR B 101     -41.020  24.638   2.548
+ATOM      2  CA  PTR B 101     -40.153  25.774   2.645
+ATOM      3  C   PTR B 101     -38.740  25.383   2.980
+ATOM      4  O   PTR B 101     -38.486  24.513   3.837
+ATOM      5  CB  PTR B 101     -40.628  26.682   3.719
+ATOM      6  CG  PTR B 101     -41.962  27.284   3.388
+ATOM      7  CD1 PTR B 101     -43.103  26.686   3.881
+ATOM      8  CD2 PTR B 101     -42.021  28.439   2.655
+ATOM      9  CE1 PTR B 101     -44.335  27.249   3.626
+ATOM     10  CE2 PTR B 101     -43.242  28.998   2.409
+ATOM     11  CZ  PTR B 101     -44.407  28.427   2.904
+ATOM     12  N   GLU B 102     -37.879  26.129   2.323
+ATOM     13  CA  GLU B 102     -36.471  25.999   2.513
+ATOM     14  C   GLU B 102     -35.987  26.576   3.856
+ATOM     15  O   GLU B 102     -36.673  27.461   4.374
+ATOM     16  CB  GLU B 102     -35.790  26.684   1.354
+ATOM     17  CG  GLU B 102     -36.086  26.081   0.010
+ATOM     18  CD  GLU B 102     -35.870  24.575  -0.022
+ATOM     19  OE1 GLU B 102     -34.706  24.152   0.084
+ATOM     20  OE2 GLU B 102     -36.869  23.854  -0.142
+ATOM     21  N   DIP B 103     -34.907  26.098   4.527
+ATOM     22  C1  DIP B 103     -34.270  24.866   4.091
+ATOM     23  C2  DIP B 103     -35.117  23.805   4.738
+ATOM     24  C3  DIP B 103     -34.579  22.527   4.261
+ATOM     25  C4  DIP B 103     -35.322  21.541   5.098
+ATOM     26  C5  DIP B 103     -34.548  20.206   4.971
+ATOM     27  C1' DIP B 103     -34.325  26.813   5.659
+ATOM     28  C2' DIP B 103     -33.017  27.504   5.227
+ATOM     29  C3' DIP B 103     -33.198  28.793   4.434
+ATOM     30  C4' DIP B 103     -31.836  29.338   4.113
+ATOM     31  C5' DIP B 103     -32.023  30.494   3.148
+TER
+ENDMDL

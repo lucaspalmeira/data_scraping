@@ -1,0 +1,40 @@
+REMARK Number:  8
+REMARK Cluster:  8  8
+REMARK Cluster:  8  8
+REMARK Ligand Name   :  peptide_models.pdb
+REMARK ITScore       :  -103.987
+REMARK RMSD          :    48.118
+MODEL    8
+ATOM      1  N   GLY B   1     -32.354  14.811  -0.464
+ATOM      2  CA  GLY B   1     -32.021  16.233  -0.807
+ATOM      3  C   GLY B   1     -32.648  17.255   0.126
+ATOM      4  O   GLY B   1     -33.295  16.900   1.116
+ATOM      5  N   THR B   2     -32.476  18.541  -0.196
+ATOM      6  CA  THR B   2     -32.993  19.684   0.575
+ATOM      7  C   THR B   2     -34.449  19.547   1.004
+ATOM      8  O   THR B   2     -35.183  18.731   0.449
+ATOM      9  CB  THR B   2     -32.834  21.018  -0.248
+ATOM     10  OG1 THR B   2     -31.446  21.371  -0.330
+ATOM     11  CG2 THR B   2     -33.620  22.189   0.366
+ATOM     12  N   GLY B   3     -34.886  20.309   1.957
+ATOM     13  CA  GLY B   3     -36.303  20.212   2.409
+ATOM     14  C   GLY B   3     -36.677  21.469   3.197
+ATOM     15  O   GLY B   3     -37.682  22.099   2.938
+ATOM     16  N   PRO B   4     -35.841  21.754   4.278
+ATOM     17  CA  PRO B   4     -36.066  22.945   5.091
+ATOM     18  C   PRO B   4     -35.657  24.297   4.404
+ATOM     19  O   PRO B   4     -36.438  24.833   3.593
+ATOM     20  CB  PRO B   4     -35.276  22.667   6.415
+ATOM     21  CG  PRO B   4     -34.900  21.236   6.385
+ATOM     22  CD  PRO B   4     -34.779  20.922   4.891
+ATOM     23  N   GLY B   5     -34.489  24.814   4.693
+ATOM     24  CA  GLY B   5     -34.057  26.068   4.085
+ATOM     25  C   GLY B   5     -32.915  25.829   3.111
+ATOM     26  O   GLY B   5     -31.996  25.062   3.430
+ATOM     27  N   GLY B   6     -32.932  26.479   1.973
+ATOM     28  CA  GLY B   6     -31.869  26.280   1.008
+ATOM     29  C   GLY B   6     -32.102  27.171  -0.185
+ATOM     30  O   GLY B   6     -33.131  27.845  -0.255
+ATOM     31  OXT GLY B   6     -31.264  27.222  -1.085
+TER
+ENDMDL
