@@ -1,4 +1,4 @@
-# Screening Dock
+# Data Scraping
 
 > Lucas Palmeira: CNPq Technological Initiation Scholarship | Data Scientist in Training | Bioinformatics
 >> Contact information: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20LINK_LINKEDIN)](https://www.linkedin.com/in/lucaspalmeira/)
